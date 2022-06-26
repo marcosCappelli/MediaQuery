@@ -2,10 +2,10 @@
 - Com ele podemos deixar nossas páginas responsivas, e até interagir com os elementos do #html
 através das regras de CSS.
 - Como aplicar o mobile first em meus projetos, trabalhar com orintation, ou seja, adicionar 
-em landscape, e até a outros modos, com alterar CSS para impressão e leitores de tela.
+em landscape, e até a outros modos, como alterar CSS para impressão e leitores de tela.
 
 # Passos para configuração:
-1 - Configurar media query na página #HTML
+1 -- Configurar media query na página #HTML
 2 - Sintaxe 
  @media screen and (max-width: 500px) { }
   /* max-width = telas menores que alguma resolução */
